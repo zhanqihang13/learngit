@@ -3,6 +3,5 @@ Git has a mutable index called stage.
 11111111
 
 
-change
-
-study is tototototototo lasy
+change=
+study is too lasy
